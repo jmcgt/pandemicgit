@@ -1,0 +1,142 @@
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.exe
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.deps.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.dev.json
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.pdb
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csprojAssemblyReference.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfo.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.input.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.output.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorCoreGenerate.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cs
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CopyComplete
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.Manifest.cache
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.xml
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.dll
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.pdb
+D:\DOCUMENTOS\CONSULTORIA WEB\DESENVOLVIMENTO WEB COM FERRAMENTAS MICROSOFT\TRABALHO\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.genruntimeconfig.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.exe
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.deps.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.dev.json
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.pdb
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csprojAssemblyReference.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfoInputs.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.input.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.output.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorCoreGenerate.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CopyComplete
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.Manifest.cache
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.xml
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.dll
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.pdb
+C:\wamp64\www\Sites\PandemicPubVitor_25_05\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.genruntimeconfig.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\appsettings.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.exe
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.deps.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.runtimeconfig.dev.json
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.pdb
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csprojAssemblyReference.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CoreCompileInputs.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorAssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfoInputs.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.AssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.input.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.TagHelpers.output.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorCoreGenerate.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Create.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\Update.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Create.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Index.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Produto\Update.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.RazorTargetAssemblyInfo.cs
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.Views.pdb
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.csproj.CopyComplete
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.Manifest.cache
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\staticwebassets\PandemicWeb.StaticWebAssets.xml
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.dll
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.pdb
+C:\wamp64\www\Sites\PandemicPub\PandemicWeb\obj\Debug\netcoreapp3.1\PandemicWeb.genruntimeconfig.cache

@@ -1,0 +1,58 @@
+@model Cliente
+<div class="container" style="padding-bottom: 20px;">
+    <h2 style="padding-top: 20px;">Meu Perfil</h2><hr/><br/>
+    <form asp-controller="cliente" asp-action="update" method="POST">
+        <div class="form-group">
+            <label>Nome completo:</label>
+            <input class="form-control" asp-for="Usuario.Nome" placeholder="Digite seu nome completo">
+            <span class="small text-danger" asp-validation-for="Usuario.Nome"></span>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label>CPF:</label>
+                    <input class="form-control" asp-for="CPF" placeholder="CPF">
+                    <span class="small text-danger" asp-validation-for="CPF"></span>
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-group">
+                    <label>Telefone:</label>
+                    <input class="form-control" asp-for="Telefone" placeholder="Telefone">
+                    <span class="small text-danger" asp-validation-for="Telefone"></span>
+                </div>
+            </div>
+        </div>        
+        <div class="form-group">
+            <label>Endereço completo:</label>
+            <input class="form-control" asp-for="Endereco" placeholder="Digite seu endereço completo">
+            <span class="small text-danger" asp-validation-for="Endereco"></span>
+        </div>
+        <div class="form-group">
+            <label for="email">E-mail:</label>
+            <input class="form-control" asp-for="Usuario.Email" placeholder="Digite seu e-mail">
+            <span class="small text-danger" asp-validation-for="Usuario.Email"></span>
+        </div><br/> 
+        <h6>Alteração de senha<hr></h6>
+        <div class="row">
+            <div class="col">
+                <label>Senha atual:</label>
+                <input type="password" class="form-control" asp-for="Usuario.Senha" placeholder="Digite sua senha">
+                <span class="small text-danger" asp-validation-for="Usuario.Senha"></span>
+            </div>
+            <div class="col">
+                <label>Nova senha:</label>
+                <input type="password" class="form-control" asp-for="Usuario.NovaSenha" placeholder="Digite uma nova senha">
+                <span class="small text-danger" asp-validation-for="Usuario.NovaSenha"></span>
+            </div>
+        </div><br/>
+        @if(@ViewBag.ShowAlert){
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+                @ViewBag.Mensagem<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        }
+        <button class="btn btn-primary">SALVAR</button>
+        <a href="/dashboard" class="btn btn-default">VOLTAR</a>
+    </form>
+</div>

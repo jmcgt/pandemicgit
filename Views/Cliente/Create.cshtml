@@ -1,0 +1,59 @@
+@model Cliente
+<div class="container">
+    <h2 style="padding-top: 20px;">Criar nova conta</h2><hr/><br/>
+    <form asp-controller="cliente" asp-action="create" method="POST">
+        <div class="form-group">
+            <label for="nome">Nome completo:</label>
+            <input class="form-control" asp-for="Usuario.Nome" placeholder="Digite seu nome completo">
+            <span class="small text-danger" asp-validation-for="Usuario.Nome"></span>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="CPF">CPF:</label>
+                    <input class="form-control" asp-for="CPF" placeholder="CPF">
+                    <span class="small text-danger" asp-validation-for="CPF"></span>
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-group">
+                    <label for="Telefone">Telefone:</label>
+                    <input class="form-control" asp-for="Telefone" placeholder="Digite seu telefone">
+                    <span class="small text-danger" asp-validation-for="Telefone"></span>
+                </div>
+            </div>
+        </div>        
+        <div class="form-group">
+            <label for="Endereco">Endereço completo:</label>
+            <input class="form-control" asp-for="Endereco" placeholder="Digite seu endereço completo">
+            <span class="small text-danger" asp-validation-for="Endereco"></span>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="form-group">
+                    <label for="Email">E-mail:</label>
+                    <input class="form-control" asp-for="Usuario.Email" placeholder="Digite seu e-mail">
+                    <span class="small text-danger" asp-validation-for="Usuario.Email"></span>
+                </div>
+            </div>
+            <div class="col-lg-6 col-sm-12">
+                <div class="form-group">
+                    <label for="Senha">Senha:</label>
+                    <input class="form-control" type="password" asp-for="Usuario.Senha" placeholder="Informe uma senha">
+                    <span class="small text-danger" asp-validation-for="Usuario.Senha"></span>
+                </div>
+            </div>
+            <div class="col-lg-6 col-sm-12">
+                <div class="form-group">
+                    <label for="NovaSenha">Confirme a senha:</label>
+                    <input class="form-control" type="password" asp-for="Usuario.NovaSenha" placeholder="Confirme a senha">
+                    <span class="small text-danger" asp-validation-for="Usuario.NovaSenha"></span>
+                </div>
+            </div>
+        </div>                
+        <button class="btn btn-primary">SALVAR</button>
+        <a href="/" class="btn btn-default">VOLTAR</a>
+    </form>
+    <script src="~/conta.js"></script>
+    <script src="~/jquery.mask.js"></script>
+</div>

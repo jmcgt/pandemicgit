@@ -1,0 +1,38 @@
+@model Usuario
+<div class="container col-lg-4 col-md-6 col-sm-12 my-4">            
+    <div class="card">
+        <div class="card-body">
+            <div class="text-center">
+                <h4>Autenticação</h4>
+                <i class="material-icons">lock</i>
+            </div>
+            <br/>
+            <form class="login" asp-controller="login" asp-action="index" method="POST">
+                <div class="form-group">
+                    <label for="Email">E-mail de acesso</label>
+                    <input class="form-control" asp-for="Email" placeholder="Digite seu e-mail de acesso">
+                    <span class="small text-danger" asp-validation-for="Email"></span>                
+                </div>
+                <div class="form-group">
+                    <label for="Senha">Senha:</label>
+                    <input class="form-control" type="password" asp-for="Senha" placeholder="Digite sua senha">
+                    <span class="small text-danger" asp-validation-for="Senha"></span>
+                </div>
+                <button class="btn btn-primary btn-block">ENTRAR</button>
+                @if(ViewBag.UsuarioNotFound){<span class="small text-danger">Usuário e/ou senha incorretos</span><br/>}
+                <br/><span class="small">Não tem cadastro?&nbsp;<a href="/nova-conta">Crie sua conta</a></span>
+                @if(ViewBag.NovoUsuario)
+                {
+                    <br/>
+                    <div class="alert alert-success alert-dismissible fade show" role="alert">
+                        <div class="small">
+                            <strong>Conta criada com sucesso</strong><br/>Autentique-se para começar a usar nosso sistema.
+                        </div>
+                        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                }
+            </form>                    
+        </div>
+    </div>    
+</div>
