@@ -1,0 +1,56 @@
+@model List<Produto>
+
+<div class="container">
+    <div class="row busca">
+        <form asp-controller="Produto" asp-action="Index" method="GET">
+            <div class="input-group">
+                <input type="text" name="busca" id="busca" class="form-control" placeholder="Buscar...">
+                <div class="input-group-append">
+                    <button class="btn btn-secondary" type="submit">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+            </div>
+        </form>
+        @if(Model!=null){<p class="mx-auto count-search">Temos <b>@Model.Count</b> opções deliciosas para você escolher</p>}
+    </div>
+    @if(Model!=null){
+        <div class="row produtos mt-5">
+            @foreach(var produto in Model){
+                <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="produto">
+                        <figure class="imagem">
+                            <img class="img-responsive" src="~/imagens/@produto.ImagePath" alt="@produto.Nome">
+                            <div class="row row-btn">
+                                <div class="col-12 tempo-preparo">
+                                    <span class="align-self-start mr-auto" title="tempo de preparo">
+                                        <i class="far fa-clock">
+                                            <span class="sr-only">(tempo de preparo)</span>
+                                        </i> 
+                                        @Extensoes.ToShortForm(produto.TempoPreparo)
+                                    </span>
+                                </div>
+                                <div class="col-12">                                
+                                    <button class="btn btn-info btn-add-carrinho align-self-center
+                                     rounded-0 mx-auto" title="adicionar ao carrinho">
+                                        Adicionar &nbsp;
+                                        <i class="fas fa-cart-plus">
+                                            <span class="sr-only">(carrinho)</span>
+                                        </i>
+                                    </button>
+                                </div>
+                            </div>
+                        </figure>
+                        <div class="texto">
+                            <h3>@produto.Nome</h3>
+                            <p class="descricao">@produto.Descricao</p>
+                            <p class="preco">@produto.Valor.ToString("C").Replace(',', '.')</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }else{
+        <br/><span class="text-secondary text-center">Catálogo vazio</span>
+    }
+</div>
