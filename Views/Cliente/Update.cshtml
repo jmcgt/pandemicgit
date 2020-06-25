@@ -36,13 +36,13 @@
         <h6>Alteração de senha<hr></h6>
         <div class="row">
             <div class="col">
-                <label>Senha atual:</label>
+                <label>Senha:</label>
                 <input type="password" class="form-control" asp-for="Usuario.Senha" placeholder="Digite sua senha">
                 <span class="small text-danger" asp-validation-for="Usuario.Senha"></span>
             </div>
             <div class="col">
-                <label>Nova senha:</label>
-                <input type="password" class="form-control" asp-for="Usuario.NovaSenha" placeholder="Digite uma nova senha">
+                <label>Confirme a senha:</label>
+                <input type="password" class="form-control" asp-for="Usuario.NovaSenha" placeholder="Confirme a senha">
                 <span class="small text-danger" asp-validation-for="Usuario.NovaSenha"></span>
             </div>
         </div><br/>

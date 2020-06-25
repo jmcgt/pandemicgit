@@ -173,7 +173,7 @@ h2, h3, h4
 }
 
 .row-btn button i{
-	color:yellow;
+	color:yellow !important;
 }
 
 .produto:hover .imagem img {
@@ -358,4 +358,12 @@ form.login
 .card small
 {
 	font-size: 70%
+}
+
+.text-light a:link,
+.text-light a:visited,
+.text-light a:hover,
+.text-light a:active
+{
+	color: inherit !important;
 }

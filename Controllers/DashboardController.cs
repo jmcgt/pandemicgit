@@ -13,9 +13,9 @@ namespace PandemicWeb.Controllers
             {                
                 ViewBag.Cliente =  GetClienteSessao();
                 ViewBag.Pedidos = ViewBag.Cliente.Pedidos;
-                ViewBag.Voucher = ViewBag.Cliente.Voucher;                
+                ViewBag.Voucher = ViewBag.Cliente.Voucher;
                 ViewBag.LogoutVisible = "block";
-                ViewBag.UserName = "<a href='/perfil' class='text-light'>"+ViewBag.Cliente.Usuario.Nome.Split(null)[0]+"</a>";
+                ViewBag.UserName = ViewBag.Cliente.Usuario.Nome;
                 return View(ViewBag.Cliente.Usuario);
             }else if(GetUsuarioSessao()!=null)
             {
@@ -23,7 +23,7 @@ namespace PandemicWeb.Controllers
                 using(ClienteData data = new ClienteData()) ViewBag.Clientes = data.Read();
                 using(ProdutoData data = new ProdutoData()) ViewBag.Produtos = data.Read();
                 ViewBag.LogoutVisible = "block";
-                ViewBag.UserName = "<span class='text-light'>"+GetUsuarioSessao().Nome+"</span>";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
                 return View(GetUsuarioSessao());
             }else return RedirectToAction("Index", "Login");
         }

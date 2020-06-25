@@ -52,7 +52,7 @@ namespace PandemicWeb.Data
       }
       return lista;
     }
-
+    
     public Cliente Read(Usuario usuario)
     {
       Cliente cliente = null;

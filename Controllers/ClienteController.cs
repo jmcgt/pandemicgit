@@ -2,12 +2,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
 using PandemicWeb.Data;
 using PandemicWeb.Models;
-using Newtonsoft.Json;
 using System;
-using System.Globalization;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Authorization;
+using System.Threading.Tasks;
+using System.Linq;
 
-namespace PandemicWeb.Controllers{
+namespace PandemicWeb.Controllers
+{
     public class ClienteController : BaseController
     {
         [HttpGet]
@@ -39,7 +40,8 @@ namespace PandemicWeb.Controllers{
             {
                 ViewBag.LogoutVisible = "block";
                 ViewBag.ShowAlert = false;
-                ViewBag.UserName = "<span class='text-light'>"+GetClienteSessao().Usuario.Nome+"</span>";
+                ViewBag.Cliente = GetClienteSessao();
+                ViewBag.UserName = ViewBag.Cliente.Usuario.Nome;                
                 return View(GetClienteSessao());
             }else return RedirectToAction("Index", "Login");
         }
@@ -47,7 +49,7 @@ namespace PandemicWeb.Controllers{
         [HttpPost]
         [Route("perfil")]        
         public IActionResult Update(Cliente model)
-        {                        
+        {        
             Cliente cliente = GetClienteSessao();
             if(cliente!=null)
             {            
@@ -63,7 +65,7 @@ namespace PandemicWeb.Controllers{
                     {flag++; ModelState.AddModelError("Usuario.NovaSenha", "A nova senha deve ter mínimo de oito caracteres");}
                     else if(model.Usuario.NovaSenha.Equals(model.Usuario.Senha))
                     {flag++; ModelState.AddModelError("Usuario.NovaSenha", "Digite uma senha diferente da senha atual");}
-                    ViewBag.UserName = "<span class='text-light'>"+cliente.Usuario.Nome+"</span>";
+                    ViewBag.UserName = cliente.Usuario.Nome;
                     if(flag>0)
                     {
                         ViewBag.ShowAlert = false;
@@ -103,7 +105,7 @@ namespace PandemicWeb.Controllers{
                         ViewBag.ShowAlert = true;
                         ViewBag.Mensagem = "Perfil atualizado com sucesso";
                     }
-                    ViewBag.UserName = "<span class='text-light'>"+cliente.Usuario.Nome+"</span>";
+                    ViewBag.UserName = cliente.Usuario.Nome;
                     return View(cliente);
                 }
             }else return RedirectToAction("Index", "Login");                

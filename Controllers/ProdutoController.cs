@@ -22,7 +22,8 @@ namespace PandemicWeb.Controllers
         {
             if(GetUsuarioSessao()!=null)
             {
-                ViewBag.UserName = "<span class='text-light'>" + GetUsuarioSessao().Nome + "</span>";
+                ViewBag.LogoutVisible = "block";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
                 return View(new Produto());
             }else return RedirectToAction("Index", "Login");
         }
@@ -45,7 +46,7 @@ namespace PandemicWeb.Controllers
             }
             if(flag>0)
             {
-                ViewBag.UserName = "<span class='text-light'>" + GetUsuarioSessao().Nome + "</span>";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
                 return View(model);
             }
             else{                
@@ -86,7 +87,7 @@ namespace PandemicWeb.Controllers
         {
             if(GetUsuarioSessao()!=null)
             {
-                ViewBag.UserName = "<span class='text-light'>" + GetUsuarioSessao().Nome + "</span>";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
                 using(ProdutoData data = new ProdutoData()) return View(data.Read(id));
             }else return RedirectToAction("Index", "Login");
         }
@@ -104,7 +105,7 @@ namespace PandemicWeb.Controllers
             }
             if(flag>0)
             {
-                ViewBag.UserName = "<span class='text-light'>" + GetUsuarioSessao().Nome + "</span>";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
                 return View(model);
             }
             else{
@@ -139,9 +140,16 @@ namespace PandemicWeb.Controllers
         [Route("")]
         public IActionResult Index(string busca)
         {
-            if(GetUsuarioSessao()!=null)
+            if(GetClienteSessao()!=null)
             {
-                ViewBag.UserName = "<span class='text-light'>" + GetUsuarioSessao().Nome + "</span>";
+                ViewBag.LogoutVisible = "block";
+                ViewBag.Cliente = GetClienteSessao();
+                ViewBag.UserName = ViewBag.Cliente.Usuario.Nome;
+            }
+            else if(GetUsuarioSessao()!=null)
+            {
+                ViewBag.LogoutVisible = "block";
+                ViewBag.UserName = GetUsuarioSessao().Nome;
             }
 
             if (!String.IsNullOrEmpty(busca))

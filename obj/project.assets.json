@@ -535,11 +535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\PandemicWeb.csproj",
+      "projectUniqueName": "c:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\PandemicWeb.csproj",
       "projectName": "PandemicWeb",
-      "projectPath": "C:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\PandemicWeb.csproj",
+      "projectPath": "c:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\PandemicWeb.csproj",
       "packagesPath": "C:\\Users\\João Marcos\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\obj\\",
+      "outputPath": "c:\\wamp64\\www\\Sites\\PandemicPub\\PandemicWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\João Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",

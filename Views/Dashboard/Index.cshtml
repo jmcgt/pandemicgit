@@ -2,6 +2,7 @@
 <div class="container-fluid" style="padding-top: 20px;">
     @if(Model.Tipo==TipoUsuario.Cliente)
     {
+        <a href="/perfil" class="btn btn-sm btn-success mb-3">ALTERAR MEUS DADOS</a>
         <div class="card card-body">
             <h5>Meus Vouchers</h5>
             <h6>Crédito disponível: @ViewBag.Voucher.Credito.ToString("C")</h6>
@@ -18,7 +19,7 @@
             else{
                 //LISTA DE PEDIDOS    
             }
-            <br/>
+            <br>            
             <a href="#" class="btn btn-sm btn-primary">NOVO PEDIDO</a>            
         </div>
         <div class="modal fade" id="modalVoucher" tabindex="-1" role="dialog" aria-labelledby="modalVoucherLabel" aria-hidden="true">

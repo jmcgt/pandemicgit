@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc;
 
 namespace PandemicWeb.Models{
     public class Usuario{        
@@ -19,9 +20,7 @@ namespace PandemicWeb.Models{
         [DataType(DataType.Password)]
         public string Senha {get; set;}
 
-        [Required(ErrorMessage="Campo obrigatório")]
         [DataType(DataType.Password)]
-        [Compare("Senha", ErrorMessage="As senhas não batem")]
         public string NovaSenha {get; set;}
         
         public TipoUsuario Tipo {get; set;}
